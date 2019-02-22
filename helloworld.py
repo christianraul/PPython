@@ -1,4 +1,5 @@
 print ("Napay Pacha")
+print ("Hola mundo")
 
 #TIPOS DE DATOS
 #datos Int
